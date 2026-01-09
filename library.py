@@ -1,7 +1,7 @@
 # import pandas as pd
 # import numpy as np
 # def stat(doc, show_info=True, show_skew=True, show_kurtosis=True):
-#     """
+#     """ 
 #     Provides an overview of the dataset, including structure, summary statistics, skewness, and kurtosis.
     
 #     Parameters:
@@ -225,6 +225,7 @@ class DataExplorer:
 
 
         
+
 
 
 
